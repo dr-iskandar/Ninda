@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 4197329f07dbe40e8a3a7fccd1f71c31
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: aaa
+    100002: Armature
+    100004: Bone
+    100006: Bone.002
+    100008: Bone.003
+    100010: Bone.004
+    100012: Bone.005
+    100014: Bone.006
+    100016: Bone.007
+    100018: Bone.008
+    100020: Bone.009
+    100022: Bone.010
+    100024: Bone.010_end
+    100026: Bone.011
+    100028: Bone.012
+    100030: Bone.013
+    100032: Bone.013_end
+    100034: Bone.014
+    100036: Bone.015
+    100038: Bone.016
+    100040: Bone.016_end
+    100042: Bone.017
+    100044: Bone.018
+    100046: Bone.019
+    100048: Bone.020
+    100050: Bone.020_end
+    100052: Bone.021
+    100054: Bone.022
+    100056: Bone.023
+    100058: Bone.024
+    100060: Bone.024_end
+    100062: Bone.025
+    100064: Bone.026
+    100066: Bone.027
+    100068: Bone.028
+    100070: Bone.029
+    100072: Bone.030
+    100074: Bone.030_end
+    100076: Bone.031
+    100078: Bone.032
+    100080: Bone.033
+    100082: Bone.033_end
+    100084: Bone.034
+    100086: Bone.035
+    100088: Bone.036
+    100090: Bone.037
+    100092: Bone.037_end
+    100094: Bone.038
+    100096: Bone.039
+    100098: Bone.040
+    100100: Bone.041
+    100102: Bone.041_end
+    100104: Bone.042
+    100106: Bone.043
+    100108: Bone.044
+    100110: Bone.045
+    100112: Bone.045_end
+    100114: Bone.046
+    100116: Bone.047
+    100118: Bone.048
+    100120: Bone.049
+    100122: Bone.049_end
+    100124: //RootNode
+    400000: aaa
+    400002: Armature
+    400004: Bone
+    400006: Bone.002
+    400008: Bone.003
+    400010: Bone.004
+    400012: Bone.005
+    400014: Bone.006
+    400016: Bone.007
+    400018: Bone.008
+    400020: Bone.009
+    400022: Bone.010
+    400024: Bone.010_end
+    400026: Bone.011
+    400028: Bone.012
+    400030: Bone.013
+    400032: Bone.013_end
+    400034: Bone.014
+    400036: Bone.015
+    400038: Bone.016
+    400040: Bone.016_end
+    400042: Bone.017
+    400044: Bone.018
+    400046: Bone.019
+    400048: Bone.020
+    400050: Bone.020_end
+    400052: Bone.021
+    400054: Bone.022
+    400056: Bone.023
+    400058: Bone.024
+    400060: Bone.024_end
+    400062: Bone.025
+    400064: Bone.026
+    400066: Bone.027
+    400068: Bone.028
+    400070: Bone.029
+    400072: Bone.030
+    400074: Bone.030_end
+    400076: Bone.031
+    400078: Bone.032
+    400080: Bone.033
+    400082: Bone.033_end
+    400084: Bone.034
+    400086: Bone.035
+    400088: Bone.036
+    400090: Bone.037
+    400092: Bone.037_end
+    400094: Bone.038
+    400096: Bone.039
+    400098: Bone.040
+    400100: Bone.041
+    400102: Bone.041_end
+    400104: Bone.042
+    400106: Bone.043
+    400108: Bone.044
+    400110: Bone.045
+    400112: Bone.045_end
+    400114: Bone.046
+    400116: Bone.047
+    400118: Bone.048
+    400120: Bone.049
+    400122: Bone.049_end
+    400124: //RootNode
+    2100000: tail
+    2100002: breast
+    2100004: 15 - Defaultafd
+    2100006: 13 - Default
+    2100008: 15 - Default
+    2100010: eyes
+    4300000: aaa
+    7400000: Armature|ArmatureAction
+    9500000: //RootNode
+    13700000: aaa
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13 - Default
+    second: {fileID: 2100000, guid: 3cd15491f362642bb868c695d6748b78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15 - Default
+    second: {fileID: 2100000, guid: 0bde9b7a0f77a4487994003e3235aac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15 - Defaultafd
+    second: {fileID: 2100000, guid: 057f82fe21e564d19a0f4ea1411099da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: breast
+    second: {fileID: 2100000, guid: e5c07f27a94d440e292343a8c4d17a9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyes
+    second: {fileID: 2100000, guid: 8e249ace2246f40dba0b27c0e0afec21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tail
+    second: {fileID: 2100000, guid: 200ed70e85cb3440c81a129830b40cd2, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: body
+    second: {fileID: 2800000, guid: 41620e450ed2e488397f8246b81d9a8c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: leg
+    second: {fileID: 2800000, guid: 370e8086fc4f6428caebd43955ae7474, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wing
+    second: {fileID: 2800000, guid: e4136b37c5e46453a8255ba46c6e5053, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wingopacity
+    second: {fileID: 2800000, guid: 4832d227e27cb4c2481db6d43206a3bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u5C3E\u5DF4"
+    second: {fileID: 2800000, guid: 86851580221054e97833f8ca3f0a8061, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|ArmatureAction
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 17
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

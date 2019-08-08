@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Vorticellacampanulata" size="1.000000 1.000000" />
+    <ImageTarget name="Volvoxglobator" size="1.000000 1.000000" />
+    <ImageTarget name="Uroglenaamericana" size="1.000000 1.000000" />
+    <ImageTarget name="UdangGalahMacrobrachiumarosenbergiri" size="1.000000 1.000000" />
+    <ImageTarget name="Stentorsp" size="1.000000 1.000000" />
+    <ImageTarget name="SemutOecophyllasmaragdina" size="1.000000 1.000000" />
+    <ImageTarget name="Protoreasternodosus" size="1.000000 1.000000" />
+    <ImageTarget name="Planariasp" size="1.000000 1.000000" />
+    <ImageTarget name="Pillaampulacea" size="1.000000 1.000000" />
+    <ImageTarget name="Pheretimasp" size="1.000000 1.000000" />
+    <ImageTarget name="Parameciumcaudatum" size="1.000000 1.000000" />
+    <ImageTarget name="Murextrapa" size="1.000000 1.000000" />
+    <ImageTarget name="Milleporasp" size="1.000000 1.000000" />
+    <ImageTarget name="Microcionasp" size="1.000000 1.000000" />
+    <ImageTarget name="Meandrinasinosa" size="1.000000 1.000000" />
+    <ImageTarget name="Madreporasp" size="1.000000 1.000000" />
+    <ImageTarget name="Lipan" size="1.000000 1.000000" />
+    <ImageTarget name="spiderconch" size="1.000000 1.000000" />
+    <ImageTarget name="Laba-laba" size="1.000000 1.000000" />
+    <ImageTarget name="KutuBungkukCentrotuscornutus" size="1.000000 1.000000" />
+    <ImageTarget name="Kupu-KupuEuremahecabe" size="1.000000 1.000000" />
+    <ImageTarget name="KumbangKubahMerah" size="1.000000 1.000000" />
+    <ImageTarget name="KepitingScyllacerata" size="1.000000 1.000000" />
+    <ImageTarget name="KakiseribuJulusvirgatus" size="1.000000 1.000000" />
+    <ImageTarget name="Hexaplex" size="1.000000 1.000000" />
+    <ImageTarget name="Heteronemaacus" size="1.000000 1.000000" />
+    <ImageTarget name="Harteasp" size="1.000000 1.000000" />
+    <ImageTarget name="Haliconaocuata" size="1.000000 1.000000" />
+    <ImageTarget name="Fungiaelegant" size="1.000000 1.000000" />
+    <ImageTarget name="Faviasp" size="1.000000 1.000000" />
+    <ImageTarget name="Euspongia" size="1.000000 1.000000" />
+    <ImageTarget name="Eupiexauraantiphates" size="1.000000 1.000000" />
+    <ImageTarget name="Euglenavirdis" size="1.000000 1.000000" />
+    <ImageTarget name="CapungOrthetrumsabina" size="1.000000 1.000000" />
+    <ImageTarget name="Blepharismalateritia" size="1.000000 1.000000" />
+    <ImageTarget name="BelalangValanganigricornis" size="1.000000 1.000000" />
+    <ImageTarget name="Babyloniaspirata" size="1.000000 1.000000" />
+    <ImageTarget name="Astropectensp" size="1.000000 1.000000" />
+    <ImageTarget name="Astreas" size="1.000000 1.000000" />
+    <ImageTarget name="Amoebaproteus" size="1.000000 1.000000" />
+    <ImageTarget name="Actinophryssol" size="1.000000 1.000000" />
+    <ImageTarget name="Achatinafulica" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: 345309aa915ba37408af065ed4db908d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: Bone
+    100006: Bone.001
+    100008: Bone.002
+    100010: Bone.003
+    100012: Bone.004
+    100014: Bone.005
+    100016: Bone.005_end
+    100018: Bone.006
+    100020: Bone.006_end
+    100022: Bone_end
+    100024: Contractile Vacuole
+    100026: Cytostome and Gullet
+    100028: Food Vacuole
+    100030: Macronucleus
+    100032: Mitochondrion
+    100034: Mononucleus
+    100036: Myonemes
+    100038: Peritome Cilia
+    100040: //RootNode
+    400000: Armature
+    400002: Body
+    400004: Bone
+    400006: Bone.001
+    400008: Bone.002
+    400010: Bone.003
+    400012: Bone.004
+    400014: Bone.005
+    400016: Bone.005_end
+    400018: Bone.006
+    400020: Bone.006_end
+    400022: Bone_end
+    400024: Contractile Vacuole
+    400026: Cytostome and Gullet
+    400028: Food Vacuole
+    400030: Macronucleus
+    400032: Mitochondrion
+    400034: Mononucleus
+    400036: Myonemes
+    400038: Peritome Cilia
+    400040: //RootNode
+    2100000: M_Food Vacuole
+    2100002: M_Contractile Vacuole
+    2100004: M_Mitochondrion
+    2100006: M_Mononucleus
+    2100008: M_Myonemes
+    2100010: M_Cytostome and Gullet
+    2100012: M_Macronucleus
+    2100014: M_Peritome Cilia
+    2100016: M_Body
+    4300000: Food Vacuole
+    4300002: Contractile Vacuole
+    4300004: Mitochondrion
+    4300006: Mononucleus
+    4300008: Myonemes
+    4300010: Cytostome and Gullet
+    4300012: Macronucleus
+    4300014: Peritome Cilia
+    4300016: Body
+    7400000: Armature|ArmatureAction
+    9500000: //RootNode
+    13700000: Body
+    13700002: Contractile Vacuole
+    13700004: Cytostome and Gullet
+    13700006: Food Vacuole
+    13700008: Macronucleus
+    13700010: Mitochondrion
+    13700012: Mononucleus
+    13700014: Myonemes
+    13700016: Peritome Cilia
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Body
+    second: {fileID: 2100000, guid: 8095c9a9fe7af224899d94df4ebd24ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Contractile Vacuole
+    second: {fileID: 2100000, guid: a59e23399d22b78409cacd32667ad65a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Cytostome and Gullet
+    second: {fileID: 2100000, guid: 4f071c53509790146b1363ecc2be2277, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Food Vacuole
+    second: {fileID: 2100000, guid: d3b5177540897b247965ba29a0246d1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Macronucleus
+    second: {fileID: 2100000, guid: 516aa450bab1b4e4eaca5784f71cb383, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Mitochondrion
+    second: {fileID: 2100000, guid: 96de28c0e74c00043a9543374480a605, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Mononucleus
+    second: {fileID: 2100000, guid: 302735d6c887892468bb1e64ccf90745, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Myonemes
+    second: {fileID: 2100000, guid: 9b4f5f22d3360634ca21a2ba2af09ff2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Peritome Cilia
+    second: {fileID: 2100000, guid: fae501777c4d2b74086e487e39acef66, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|ArmatureAction
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 89
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
